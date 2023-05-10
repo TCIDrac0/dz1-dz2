@@ -1,0 +1,15 @@
+C:\Users\01060\Desktop\рабочая область\obj\Debug\net7.0\рабочая область.csproj.AssemblyReference.cache
+C:\Users\01060\Desktop\рабочая область\obj\Debug\net7.0\рабочая область.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01060\Desktop\рабочая область\obj\Debug\net7.0\рабочая область.AssemblyInfoInputs.cache
+C:\Users\01060\Desktop\рабочая область\obj\Debug\net7.0\рабочая область.AssemblyInfo.cs
+C:\Users\01060\Desktop\рабочая область\obj\Debug\net7.0\рабочая область.csproj.CoreCompileInputs.cache
+C:\Users\01060\Desktop\рабочая область\bin\Debug\net7.0\рабочая область.exe
+C:\Users\01060\Desktop\рабочая область\bin\Debug\net7.0\рабочая область.deps.json
+C:\Users\01060\Desktop\рабочая область\bin\Debug\net7.0\рабочая область.runtimeconfig.json
+C:\Users\01060\Desktop\рабочая область\bin\Debug\net7.0\рабочая область.dll
+C:\Users\01060\Desktop\рабочая область\bin\Debug\net7.0\рабочая область.pdb
+C:\Users\01060\Desktop\рабочая область\obj\Debug\net7.0\рабочая область.dll
+C:\Users\01060\Desktop\рабочая область\obj\Debug\net7.0\refint\рабочая область.dll
+C:\Users\01060\Desktop\рабочая область\obj\Debug\net7.0\рабочая область.pdb
+C:\Users\01060\Desktop\рабочая область\obj\Debug\net7.0\рабочая область.genruntimeconfig.cache
+C:\Users\01060\Desktop\рабочая область\obj\Debug\net7.0\ref\рабочая область.dll
